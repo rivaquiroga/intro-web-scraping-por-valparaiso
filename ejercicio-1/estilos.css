@@ -1,0 +1,21 @@
+
+body {
+  font-family: 'Fresca', sans-serif;
+}
+
+div.nota {
+  background-color: #01dada;
+  border-left: 8px solid #01a7a7;
+}
+
+p.texto-nota {
+  padding-top: 10px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  font-size: 1.5em;
+}
+
+p.librerias {
+  font-family: 'Fira Code', monospace;
+}
+
