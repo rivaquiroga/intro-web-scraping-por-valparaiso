@@ -44,10 +44,6 @@ A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para
 
 :link: [robots.txt 2](https://www.memoriachilena.gob.cl/robots.txt)
 
-## Actividades
-
-
-
 
 ## Atajos de teclado útiles
 
@@ -58,3 +54,22 @@ Los siguientes atajos de teclado serán útiles al explorar las páginas web que
 | Ver el código fuente de una página | ctrl +  u | command + u|
 | Abrir el panel de desarrollo | F12<br/>ctrl + shift + i | F12<br/>option + command +i |
 | Abrir el panel de desarrollo con la opción de selección activada | ctrl + shift + c | option + command + c |
+
+## Actividades
+
+Durante el taller realizaremos algunos ejercicios para poner en práctica lo aprendido. Iremos escribiendo el código "en vivo" en la sesión, por lo que el contenido de los archivos con código se irá actualizando a medida que escribamos en ellos. 
+
+### Ejercicio 1: extraer datos de un sitio "mínimo" y estructurarlos
+
+:link: [Página web](https://rivaquiroga.github.io/datapalooza-2024-webscraping/ejercicio-1/pagina.html)
+
+:page_facing_up: [Código escrito durante el taller]()
+
+
+### Ejercicio 2: extraer tablas
+
+:link: [Página web](https://www.worldometers.info/world-population/population-by-country/) 
+
+:page_facing_up: [Código durante el taller]()
+
+
