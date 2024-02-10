@@ -63,13 +63,13 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 :link: [Página web](https://rivaquiroga.github.io/intro-web-scraping-por-valparaiso/ejercicio-1/pagina.html)
 
-:page_facing_up: [Código escrito durante el taller]()
+:page_facing_up: [Código escrito durante el taller](https://www.dropbox.com/scl/fi/45zqj0vfbnj1xlgalv3g5/ejercicio-01.py?rlkey=0u4nowwu4iow5djftknlfq1a5&dl=0)
 
 
 ### Ejercicio 2: extraer tablas
 
 :link: [Página web](https://www.worldometers.info/world-population/population-by-country/) 
 
-:page_facing_up: [Código durante el taller]()
+:page_facing_up: [Código durante el taller](https://www.dropbox.com/scl/fi/k8aykr5udedyu5k4lwk8y/ejercicio-02.py?rlkey=t2fh20yebkmlxrp12bn9g424v&dl=0)
 
 
