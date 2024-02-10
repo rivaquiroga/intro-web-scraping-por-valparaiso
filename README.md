@@ -61,7 +61,7 @@ Durante el taller realizaremos algunos ejercicios para poner en práctica lo apr
 
 ### Ejercicio 1: extraer datos de un sitio "mínimo" y estructurarlos
 
-:link: [Página web](https://rivaquiroga.github.io/datapalooza-2024-webscraping/ejercicio-1/pagina.html)
+:link: [Página web](https://rivaquiroga.github.io/intro-web-scraping-por-valparaiso/ejercicio-1/pagina.html)
 
 :page_facing_up: [Código escrito durante el taller]()
 
