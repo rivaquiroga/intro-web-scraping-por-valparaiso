@@ -24,7 +24,7 @@ Si prefieres trabajar en Google Colab, no olvides agregar un signo de exclamaci�
 (Esto le indica a Google Colab que ese no es código de Python, sino código que tiene que ejecutarse en la Terminal.)
 
 Si trabajas en Visual Studio Code o en otro IDE, será necesario que crees un entorno virtual. En Google Colab no es necesario, ya que cada _notebook_ es ya un entorno virtual.
-Al inicio de la sesión mostraremos cómo hacerlo. De todos modos, dejaremos un respaldo con [las indicaciones en este documento](https://github.com/rivaquiroga/datapalooza2024-webscraping/blob/main/crear-entorno-virtual.md).
+Al inicio de la sesión mostraremos cómo hacerlo. De todos modos, dejaremos un respaldo con [las indicaciones en este documento](https://github.com/rivaquiroga/intro-web-scraping-por-valparaiso/blob/main/configuracion-entorno-virtual.md).
 
 ## Enlaces ejemplos
 
