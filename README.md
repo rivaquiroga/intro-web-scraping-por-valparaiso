@@ -30,7 +30,7 @@ Al inicio de la sesión mostraremos cómo hacerlo. De todos modos, dejaremos un 
 
 A lo largo de la sesión revisaremos algunos sitios web a modo de ejemplo o para discutir algunas ideas. 
 
-:link: [Sitio web estático](https://datascience.uc.cl/que-es-ciencia-de-datos)
+:link: [Sitio web estático](https://www.senado.cl/appsenado/index.php?mo=lobby&ac=GetReuniones)
 
 :link: [Sitio web dinámico](https://www.camara.cl/transparencia/asesoriasexternasgral.aspx)
 
